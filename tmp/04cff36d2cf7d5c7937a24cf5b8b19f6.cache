@@ -1,0 +1,101 @@
+<?php
+ $configs = array (
+  'termPaths' => 
+  array (
+    '/(?<categoryName>slider+)(?<pageIndex>(|/([0-9]+)))' => 'Slider',
+    '/(?<categoryName>slider+)/(?<subCategoryName>([a-z0-9\\-]+))(?<pageIndex>(|/([0-9]))+)' => 'Slider',
+    '/(?<categoryName>slider+)/(?<subCategoryName>([a-z0-9\\-]+))/(?<contentName>([a-z0-9\\-])+)' => 'Slider',
+    '/(?<categoryName>products+)(?<pageIndex>(|/([0-9]+)))' => 'Product',
+    '/(?<categoryName>products+)/(?<contentName>([a-z0-9\\-]+))' => 'Product',
+    '/(?<categoryName>page+)(?<pageIndex>(|/([0-9]+)))' => 'Page',
+    '/(?<categoryName>page+)/(?<contentName>([a-z0-9\\-]+))' => 'Page',
+  ),
+  'categoryParent' => 
+  array (
+    'slider' => 
+    array (
+      'id' => '1',
+      'parent' => '0',
+      'pathName' => 'slider',
+      'title' => 'Slider',
+      'contentType' => 'slider',
+      'status' => '1',
+      'ordering' => '0',
+      'defaultTags' => NULL,
+      'numContents' => '0',
+      'name' => 'slider',
+      'module' => 'Slider',
+      'isCategory' => '1',
+      'haveSubCategory' => '1',
+      'haveContent' => '1',
+    ),
+  ),
+  'siteName' => 'Timeless Things',
+  'senderMail' => 'noreply@timelessthingsco.com',
+  'settings' => 
+  array (
+    'contactMail' => 'tes@mail.com',
+    'contactAddress' => '<h5 style="font-weight: 200;">LOS ANGELES</h5>
+<p>&nbsp;5404 Alton Parkway, Suite 771 <br />Irvine, CA 92604 <br />T. (+1) 949 6169675</p>
+<p>&nbsp;</p>
+<h5 style="font-weight: 200;">BALI</h5>
+<p>Regus Benoa Square <br />Jl. Bypass Ngurah Rai No.21A <br />T. (+62) 361 2003275 <br />www.timelessthingsco.com</p>',
+    'instagram' => 'test',
+    'facebook' => 'test',
+    'twitter' => 'test',
+    'pictureAbout' => 'home-about.jpg',
+    'aboutText' => 'At The Timeless Things Company, we have built a creative community of artisans around this natural relic. Melding up-to-date technology with traditional craftmanship we create natural works of art - things that are truly one-of-a-kind. Each piece shares the history and splendor of the natural tree from where it came – it’s original living form.',
+    'homeSection1' => 'Legally harvested and completely unique, each piece of petrified wood is a natural masterpiece. An exceptional piece of petrified wood brings the beauty of nature into your home.',
+    'picturePhilosophy' => 'intro-philosophy.jpg',
+    'titlePhilosophy' => 'WASTE IS GRACE',
+    'textPhilosophy' => 'The company believes there is no such thing as waste, and strives to find innovative ways of using every part of the stone. All the off-cuts from larger items are saved, and re-cycled to make something unique and beautiful. Where there is waste, we see grace to bring things back to life.',
+    'pictureProcess' => 'process.jpg',
+    'titleProcess' => 'PROCESS',
+    'picturePeople' => 'home-people.jpg',
+    'titlePeople' => 'PEOPLE',
+    'pagePeopleTitle' => '<p>FOLDED BY THE FORCES OF NATURE, <br />MOLDED BY CRAFTSMEN, ADORED BY YOU</p>',
+    'pagePeopleDesc' => 'It would not be possible to make our masterpieces of petrified wood without our community of skilled artisans. The Timeless Things Company is built on a collaboration of traditional Indonesian techniques, made more efficient with advanced technology. From the efforts of these creative artisans, whole trunks of petrified wood are selected, cut, shaped and polished, into wonders of extraordinary beauty.',
+  ),
+  'aboutus' => 
+  array (
+    'heroImage' => 'hero-about-1596b5cafaf836.jpg',
+    'heroTitle' => '<p>RESCUED AND RECYCLED FOR <br /> ANOTHER MILLION YEARS OF JOY</p>',
+    'pictureBelowHeader' => 'about-1.jpg',
+    'titleBelowHero' => 'Timeless <span>Things</span> Company',
+    'textBelowHero' => '<p>A handsome piece of petrified wood, with its tree rings clearly visible and stunningly preserved, is a per-mineralized fossil of an ancient old tree, one of a vast prehistoric forest. Formed over millions of years, petrified wood comes from the trunks of trees that have been turned to stone – literally ‘petrified’ and transformed from plant matter into solid rock. practical uses.
+</p>
+<p>
+The raw essence of petrified wood attracts many a collector to showcase the trunks and slabs as natural works of art, but when molded for a purpose, petrified wood can have other, more
+</p>',
+    'thirdSectionImage' => 'about-2.jpg',
+    'thirdSectionTitle' => '<p>
+The Timeless Things Company sculpts, reinvigorates, and recycles this primal material to produce incredible furniture and architectural masterpieces. 
+</p>',
+    'titleFourthSection' => 'HOW PETRI<span>FIED WO</span>OD IS MADE',
+    'firstRowImage' => 'about-3.jpg',
+    'firstRowText' => '<h3>FROZEN IN TIME : FOSSILIZED WOOD FROM PRE-HISTORY</h3>
+<p>The petrifaction process occurs underground, when wood becomes buried under sediment or volcanic ash. Rapid burial is vital to ensure the tree trunks is buried without insects or oxygen &ndash; the necessary ingredient for decay, and preserves the original plant structure and general appearance.</p>
+<p>The mineralization process occurs when mineralrich water flows through the mass of material. In this prehistoric brew, the water deposits minerals in the plant&rsquo;s cells, replacing the organic plant structure with inorganic minerals, mostly a silicate-like quartz. As the plant&rsquo;s cellulose or living matter decays, a stone cast is formed in its place. The final result, which can take up to 300 million years to form, is petrified wood, something that resembles a plant with its original structure in place, now replaced by stone.</p>',
+    'secondRowImage' => 'about-4.jpg',
+    'secondRowText' => '<div class="text">
+<h3>MINERAL DEPOSITS</h3>
+<p>Elements such as manganese, iron, and copper in the water/mud during the petrification process give petrified wood a variety of color ranges. Pure quartz crystals are colorless, but when contaminants are added to the process the crystals take on a yellow, red, or other tints.</p>
+<p>The Timeless Things Company is based in Indonesia, where petrified wood dates from the Cenozo&iuml;cum era, about 20-22 million years ago. Surrounded by the Ring of Fire, this highly volcanic region produces petrified wood that is characterized by white, brown, grey and black colors.</p>
+</div>',
+  ),
+  'philosophy' => 
+  array (
+    'heroImage' => 'hero-philosophy.jpg',
+    'heroTitle' => '<p>A NATURAL MASTERPIECE <br /> BEARING ITS OWN UNIQUENESS<br /> AND SPLENDOUR</p>',
+    'pictureBelowHeader' => 'philosophy-1.jpg',
+    'titleBelowHero' => 'Transform <span>From Wo</span>od To Stone',
+    'textBelowHero' => '<p>At the Timeless Things Company, we have built a creative community of artisans around this natural relic. Melding up-to-date technology with traditional craftmanship we create natural works of art - things that are truly one-of-a-kind. Each piece shares the history and splendor of the natural tree from where it came &ndash; it&rsquo;s original living form.</p>',
+    'thirdSectionImage' => 'people-4.jpg',
+    'thirdSectionTitle' => 'CRA<span>FTMAN</span>SHIP',
+    'thirdSectionDesc' => 'Our company takes an artisanal approach to carefully selecting the right fragment, before carving the hard stone. Using whole trunks of fossilized rock, we fashion larger architectural and furniture items such as table tops, deep sinks, decorative columns, and mantle pieces.',
+    'thirdSectionDesc1' => 'Although the grains of the stone will vary, the colors are mostly earth tones, making them suitable for virtually any interior.',
+    'titleFourthSection' => 'WASTE IS GRACE',
+    'textFourthSection' => 'The company believes there is no such thing as waste, and strives to find innovative ways of using every part of the stone. All the off-cuts from larger items are saved, and re-cycled to make something unique and beautiful. Where there is waste, we see grace to bring things back to life.',
+  ),
+);
+?>

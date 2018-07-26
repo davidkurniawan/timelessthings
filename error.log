@@ -1,0 +1,20 @@
+2017-06-15 22:53:01	256	Undefined class 'SiteIndex'	D:\project\orijin\timelessthingsco\source\cores\core.php	164
+2017-06-15 22:55:00	256	Undefined class 'HtmlDocuments'	D:\project\orijin\timelessthingsco\source\cores\core.php	164
+2017-06-16 13:58:03	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: NO)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 08:47:10	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: NO)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 08:47:13	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: NO)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 08:47:15	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: NO)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 12:02:40	256	Undefined class 'Pages'	D:\project\_workspaces\timelessthings\cores\core.php	164
+2017-06-17 12:03:02	256	Undefined class 'Pages'	D:\project\_workspaces\timelessthings\cores\core.php	164
+2017-06-17 12:03:08	256	Undefined class 'Pages'	D:\project\_workspaces\timelessthings\cores\core.php	164
+2017-06-17 21:58:53	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: YES)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 21:58:53	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: YES)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 21:58:53	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: YES)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 21:58:56	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: YES)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 21:58:57	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: YES)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 21:58:59	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: YES)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 21:58:59	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: YES)	D:\project\_workspaces\timelessthings\cores\DataProvider.php	138
+2017-06-17 20:56:36	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: YES)	/home/mulyo1971/public_html/cores/DataProvider.php	138
+2017-06-17 20:57:31	512	Failed  to connect to MySql for: 'anonymous@localhost' (Using password: YES)	/home/mulyo1971/public_html/cores/DataProvider.php	138
+2017-07-18 13:09:38	256	Undefined class 'Page'	/home/mulyo1971/public_html/cores/core.php	164
+2017-07-18 22:10:30	256	Undefined class 'Page'	/home/mulyo1971/public_html/cores/core.php	164

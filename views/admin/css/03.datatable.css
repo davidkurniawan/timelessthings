@@ -1,0 +1,108 @@
+
+
+.datatable thead th{
+	border-bottom: solid 1px #eee;
+}
+.datatable tfoot td{
+	border-top:solid 1px #eee;
+}
+.datatable th,
+.datatable td{
+	xpadding:6px 8px !important;
+}
+
+.datatable {
+	border-color: #d9d9d9 !important;
+}
+
+.datatable a{
+	color:#222;
+}
+.datatable a:hover{
+	color:#1F54AD;
+	text-decoration:none;
+}
+.datatable .icon{
+	font-size:16px;
+}
+
+
+
+
+/***************************/
+
+td.pagination
+{
+
+}
+td.pagination ul
+{
+	list-style-type:none;
+	margin:0; padding:0;
+	display:inline-block;
+	margin-right:15px;
+}
+td.pagination ul li,
+td.pagination ul li a
+{
+	display:inline-block;
+}
+td.pagination ul li a
+{
+	display:inline-block;
+	padding:1px 10px;
+	color:#222;
+	font-size:14px;
+	border-right:solid 1px #ccc;
+}
+td.pagination ul li.current a
+{
+	font-weight:bold;
+}
+
+
+
+
+
+table.table th,
+
+table.table td {
+
+  border-color: #c8c8c8;
+
+}
+
+table.table {
+
+  border-color: #c8c8c8;
+
+}
+
+.table-striped1 > div:nth-child(2n+1) > *,
+
+.table-striped1 > li :nth-child(2n+1) > *,
+
+.table-striped1 > tbody > tr:nth-child(2n+1) > * {
+
+  background-color: #eaeaea;
+
+}
+
+ table.table > tbody > tr > td
+{
+	padding:10px;
+}
+.table-striped1 > thead
+{
+	background-color:#2B303B;
+	color:#FFFFFF;
+}
+.datatable .status.unactive
+{
+	color:#B2B2B2;
+}
+
+.datatable .status.active
+{
+	color:#009300;
+}
